@@ -1,0 +1,27 @@
+[submodule "kernel"]
+	path = kernel
+	url = git@github.com:bitweaver/kernel.git
+[submodule "liberty"]
+	path = liberty
+	url = git@github.com:bitweaver/liberty.git
+[submodule "storage"]
+	path = storage
+	url = git@github.com:bitweaver/storage.git
+[submodule "themes"]
+	path = themes
+	url = git@github.com:bitweaver/themes.git
+[submodule "users"]
+	path = users
+	url = git@github.com:bitweaver/users.git
+[submodule "util"]
+	path = util
+	url = git@github.com:bitweaver/util.git
+[submodule "install"]
+	path = install
+	url = git@github.com:bitweaver/install.git
+[submodule "help"]
+	path = help
+	url = git@github.com:bitweaver/wiki.git
+[submodule "store"]
+	path = store
+	url = git@github.com:bitweaver/commerce.git
