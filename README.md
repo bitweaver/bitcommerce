@@ -1,9 +1,9 @@
-Bitcommerce - Enterprise eCommerce
+Bitcommerce - Enterprise eCommerce for Postgresql
 ===========
 
-If you are looking for production quality version of Zen-cart or Magento that will run on Postgresql, Bitcommerce is your answer. It is an extensive fork of http://www.zen-cart.com. Many, many improvements have been made to create a modern commerce system that can support thousands of products, production options, and users.
+*If you are looking for production quality version of Zen-cart or Magento that will run on Postgresql, Bitcommerce is your answer.*
 
-It supports **both MySQL, PostgreSQL and Firebird** databases. Much of Bitcommerce was written by die-hard postgres fans, so its postgresql support is actually tested first.
+It is an extensive fork of http://www.zen-cart.com. Many, many improvements have been made to create a modern commerce system that can support thousands of products, production options, and users. It supports **both MySQL, PostgreSQL and Firebird** databases. Much of Bitcommerce was written by die-hard postgres fans, so its postgresql support is actually tested first.
 
 Key features of Bitcommerce is that it is a true e-commerce system built on top of a CMS and web Framework. This allows easy integration of digital content with purchases, as well as full support for physical item sales.
 
