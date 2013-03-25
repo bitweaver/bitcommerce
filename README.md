@@ -19,7 +19,7 @@ http://www.viovio.com/shop/
 
 There is much to do, and we need your help. Drop by our **IRC channel** at irc://freenode.net/#bitweaver and say hello.
 
-Bitcommerce master project that will keep all of the submodules. After cloning, you will need to pull in all of the submodules with the following command:
+Bitcommerce is the master project that will keep all of the submodules. After cloning, you will need to pull in all of the submodules with the following command:
 
 ## Installation
 
